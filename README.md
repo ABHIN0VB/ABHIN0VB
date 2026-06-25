@@ -1,63 +1,39 @@
-<h1 align="center">Hi 👋, I'm Abhinav Babu</h1>
-
-<h3 align="center">
-Backend-Focused Full Stack Developer | B.Tech CSE @ IIIT Kottayam
-</h3>
-
-<p align="center">
-Passionate about building scalable backend systems, AI-powered applications, and solving real-world problems.
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science @ IIIT Kottayam
 - 💻 Backend-Focused Full Stack Developer
-- 🌱 Currently learning Spring Boot, Java Backend & Microservices
-- 🧠 Solved 200+ DSA problems
-- ☁️ Exploring AWS Cloud & Distributed Systems
-- 🎯 Goal: Software Engineer @ Google
+- 🤖 Interested in AI-powered applications and scalable backend systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="left">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Gateway-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
-### Backend
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge)
-
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge)
-
-### ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+</p>
 
 ---
 
@@ -95,28 +71,16 @@ Full-stack proctored quiz platform with browser-based activity monitoring and RE
 
 ---
 
-## 🏆 Achievements
-
-- 🧩 Solved **200+ DSA Problems**
-- 🏅 Shortlisted in **3 National-Level Hackathons**
-- 💼 Selected for **Infosys Springboard Internship**
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/abhinav-babu-b0519938a/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:abhinavbabu148@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
-
----
-
-⭐ Thanks for visiting my profile!
